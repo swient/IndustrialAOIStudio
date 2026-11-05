@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="IndustrialAOIStudio.App/IndustrialAOIStudio.App.csproj" />
+  <Project Path="IndustrialAOIStudio.Core/IndustrialAOIStudio.Core.csproj" />
+  <Project Path="IndustrialAOIStudio.Native/IndustrialAOIStudio.Native.vcxproj" Id="f7bf2494-1df9-45db-90b9-4907e4a41b33" />
+</Solution>
